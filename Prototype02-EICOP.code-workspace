@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"name": "Prototype02-EICOP",
+			"path": "."
+		},
+		{
+			"name": "Assets",
+			"path": "../Assets"
+		},
+		{
+			"name": "Library",
+			"path": "../Library"
+		},
+		{
+			"name": "Logs",
+			"path": "../Logs"
+		},
+		{
+			"name": "Packages",
+			"path": "../Packages"
+		},
+		{
+			"name": "ProjectSettings",
+			"path": "../ProjectSettings"
+		},
+		{
+			"name": "UserSettings",
+			"path": "../UserSettings"
+		}
+	],
+	"settings": {}
+}
